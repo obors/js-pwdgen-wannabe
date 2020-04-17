@@ -13,7 +13,7 @@
 .name-example{
   margin: 0 auto;
   background-color: lightgrey;
-  border-radius: 15px solid black;
+  border-radius: 15px;
   width: 600px;
   height: 200px;
   text-align: center;
