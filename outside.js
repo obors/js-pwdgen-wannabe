@@ -25,7 +25,7 @@ console.log(userColor);
 document.getElementById('firstName').innerHTML = userName + ',';
 document.getElementById('createdPsw').innerHTML = userName + userSurname + userColor + 20;
 //document.getElementById('name').style.display = 'block';
-document.getElementById('name').setAttribute('class', "visible") ;
+document.getElementById('name-example').setAttribute('class', "visible") ;
 //.setAttribute - la funzione che permette di aggiungere attributi in css senza modificare html e senza che JS si occupi dello stile della pagina
 
 console.log(firstName, createdPsw );

@@ -20,11 +20,11 @@
   padding: 50px;
 
 }
-#name{
+#name-example{
   display: none;
   font-size: 16px;
 
 }
-#name.visible{
+#name-example.visible{
   display: block;
 }
